@@ -1,16 +1,19 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The Weather App is a Flutter-based application that allows users to view real-time weather information for various locations. It features a clean and responsive design and supports both light and dark themes. The app utilizes a weather API to fetch data and uses BLoC (Business Logic Component) for state management, providing a scalable and maintainable architecture.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Weather Information:** Displays real-time weather details such as temperature and conditions fetched from a weather API.
+- **Light and Dark Mode:** Switch between light and dark themes using an icon in the app bar.
+- **Responsive Design:** Optimized for different screen sizes and orientations.
+- **State Management:** Utilizes BLoC for handling application state efficiently.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 1](https://github.com/user-attachments/assets/5635434b-9e6a-4e1b-93b7-a62c9b520b86)
+![Screenshot 2](https://github.com/user-attachments/assets/57c64ea1-ea1c-4982-807b-84997f557e75)
+![Screenshot 3](https://github.com/user-attachments/assets/f1092370-ab72-4c7b-b505-19b1149a98b4)
+
