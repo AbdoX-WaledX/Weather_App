@@ -2,14 +2,15 @@
 
 ## Overview
 
-The Weather App is a Flutter-based application that allows users to view real-time weather information for various locations. It features a clean and responsive design and supports both light and dark themes. The app utilizes a weather API to fetch data and uses BLoC (Business Logic Component) for state management, providing a scalable and maintainable architecture.
+The Weather App is a Flutter-based application that provides real-time weather information for various locations. It features a modern and responsive design with support for light and dark modes. The app uses a weather API to fetch weather data and employs BLoC (Business Logic Component) for efficient state management, ensuring a clean and maintainable architecture. Users can seamlessly switch between light and dark themes using an icon in the app bar.
 
 ## Features
 
-- **Weather Information:** Displays real-time weather details such as temperature and conditions fetched from a weather API.
+- **Weather Information From API:** Displays real-time weather details such as temperature and conditions fetched from a weather API.
+- **State Management:** Utilizes BLoC for handling application state efficiently.
 - **Light and Dark Mode:** Switch between light and dark themes using an icon in the app bar.
 - **Responsive Design:** Optimized for different screen sizes and orientations.
-- **State Management:** Utilizes BLoC for handling application state efficiently.
+- 
 
 ## Screenshots
 
